@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Drop Down</string>
+
+    <string name="bd_fragment_text">Hello Bangladesh fragment</string>
+    <string name="in_fragment_text">Hello India fragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="mycountryArray">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Thailand</item>
+    </string-array>
+
+
+</resources>
